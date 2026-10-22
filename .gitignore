@@ -1,0 +1,5 @@
+# Screenshots contain real people's profile photos. Never commit them.
+screen.png
+after_heart.png
+*.mp4
+__pycache__/
