@@ -1,3 +1,4 @@
+(TO GET THE BEST OUT OF THIS SCRIPT AND HINGE ITSELF SUBSCRIBE FOR A WEEK ONLY)
 # Hinge Auto-Liker (MuMu emulator)
 
 Automatically taps the like heart and **Send Like** on Hinge running in the MuMu emulator.
